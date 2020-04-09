@@ -1,7 +1,6 @@
 # Covid19
 
-# covid19
-Covid-19 Pandemic prediction and trend comparison of Key Countries
+## Covid-19 Pandemic prediction and trend comparison of Key Countries
 
 Authors: Bhaskar Ray, Pritis Nayak & Sandipan Basu
 
