@@ -4,7 +4,7 @@
 
 Authors: Bhaskar Ray, Pritis Nayak & Sandipan Basu
 
-Acknowledgement : Based on the Article by Venelin Valkov. https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/
+Acknowledgement : Based on the Article by [Venelin Valkov](https://www.curiousily.com/posts/time-series-forecasting-with-lstm-for-daily-coronavirus-cases/)
 
 Here, we have used PyTorch to create a Recurrent Neural Network (LSTM) that works with Time Series data. The problem of predicting daily Covid-19 cases is hard. With more data, we can control this outbreak. For now it predicts the number of infections for the next 5 days.
 
